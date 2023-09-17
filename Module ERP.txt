@@ -1,4 +1,9 @@
 - Purchase
+  - Purchase Order
+  - Receiving
+  - Purchase Invoice
+  - Purchase Return
+  - Purchase Return Invoice
 - Inventory
 - Sales
 - Finance
