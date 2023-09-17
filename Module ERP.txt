@@ -9,6 +9,9 @@
   - Inventory Adjustment ( IN / OUt )
   - Stock Opname
 - Sales
+  - Sales Order
+  - Shipment
+  - Sales Invoice
 - Finance
 - Accounting
 - Fixed Asset
