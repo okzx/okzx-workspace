@@ -1,0 +1,14 @@
+- Purchase
+  - Purchase Order
+  - Receiving
+  - Purchase Invoice
+  - Purchase Return
+  - Purchase Return Invoice
+- Inventory
+- Sales
+- Finance
+- Accounting
+- Fixed Asset
+- Manufacture
+- POS
+- Mobile Apps
