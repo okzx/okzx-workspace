@@ -11,6 +11,9 @@
   - Stock Opname
 - Sales
   - Sales Quotation
+  - Sales Order
+  - Shipment
+  - Sales Invoice
 - Finance
 - Accounting
 - Fixed Asset
