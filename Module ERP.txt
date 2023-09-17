@@ -1,0 +1,9 @@
+- Purchase
+- Inventory
+- Sales
+- Finance
+- Accounting
+- Fixed Asset
+- Manufacture
+- POS
+- Mobile Apps
