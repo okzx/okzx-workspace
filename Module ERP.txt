@@ -1,4 +1,5 @@
 - Purchase
+  - Purchase Request
   - Purchase Order
   - Receiving
   - Purchase Invoice
@@ -9,6 +10,7 @@
   - Inventory Adjustment ( IN / OUt )
   - Stock Opname
 - Sales
+  - Sales Quotation
   - Sales Order
   - Shipment
   - Sales Invoice
