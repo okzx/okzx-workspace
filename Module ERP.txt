@@ -5,6 +5,9 @@
   - Purchase Return
   - Purchase Return Invoice
 - Inventory
+  - Storage Transfer
+  - Inventory Adjustment ( IN / OUt )
+  - Stock Opname
 - Sales
 - Finance
 - Accounting
