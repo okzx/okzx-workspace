@@ -11,3 +11,6 @@
 - https://www.bee.id/kbp/pembayaran-non-tunai-pada-beepos-desktop/
 - https://help.kasirpintar.co.id/knowledge-base/cara-transaksi-dengan-metode-pembayaran-bca-di-kasir-pintar-pos-desktop/
 - https://www.hansamanuals.com/main/langcode___ET/mailnumber___5792/theconf___535/manuals/levelzero___5792/version___53/hwconvindex.htm
+- https://docs.erpnext.com/docs/user/manual/en/workflows
+- https://docs.erpnext.com/docs/user/manual/en/introduction
+- https://github.com/frappe/erpnext
