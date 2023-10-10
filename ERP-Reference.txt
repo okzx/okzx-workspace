@@ -15,3 +15,4 @@
 - https://docs.erpnext.com/docs/user/manual/en/introduction
 - https://github.com/frappe/erpnext
 - https://help.turboly.com/sales-wholesale/company_workflow/
+- https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c#added-2
