@@ -16,3 +16,13 @@
 - https://github.com/frappe/erpnext
 - https://help.turboly.com/sales-wholesale/company_workflow/
 - https://gist.github.com/juampynr/4c18214a8eb554084e21d6e288a18a2c#added-2
+- https://help.zahironline.com/portal/id/kb/articles/cara-input-transaksi-giro-keluar-zahir-online-v2
+- https://abckotaraya.id/mengatur-pembayaran-piutang/
+- https://www.bee.id/kba/giro-in-customer-digunakan-untuk-pembayaran-hutang-supplier/
+- https://www.bee.id/kba/pembayaran-menggunakan-giro-beeaccounting/
+- https://www.erzap.com/artikels/165-pembayaran-hutang---piutang-menggunakan-cek-giro-mundur
+- https://ultimasolusindo.com/manual-book/pendalaman-fitur/fitur-penjualan/uang-muka-penjualan/
+- https://help.zahironline.com/portal/id/kb/articles/uang-muka-penjualan
+- https://help.zahironline.com/portal/id/kb/articles/mencatat-uang-muka-penjualan-melalui-modul-kas-keluar-pada-zahir-versi-5-1-4-11-2019
+- https://storesoftwareonline.com/2021/04/12/cara-input-transaksi-uang-muka-penjualan-di-accurate-online/
+- https://ukirama.com/blogs/contoh-cara-mencatat-jurnal-penjualan-dengan-uang-muka
